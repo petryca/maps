@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 100vh;
+}
+
+footer {
+    height: 400px;
+    background-color: #333;
+}
+
+.pin {
+    width: 60px;
+    height: 60px;
+    background-image: url(placeholder.png);
+    background-position: center;
+    background-size: contain;
+}
