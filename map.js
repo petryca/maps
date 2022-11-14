@@ -2,7 +2,7 @@
 
 
 
-    mapboxgl.accessToken = 'pk.eyJ1IjoicGV0cnljYSIsImEiOiJjazd6eGFxajEwOW5rM2RydW5rb3pzcmtiIn0.eFkGZsTPafVGw_E9bXI8aA';
+    mapboxgl.accessToken = 'YOUR_API_KEY_GOES_HERE';
 
     let map = new mapboxgl.Map({
         container: 'map',
